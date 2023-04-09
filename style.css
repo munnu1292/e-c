@@ -1,0 +1,60 @@
+.carousel{
+    margin: 100px 20px 0px 20px;
+    background-color: #F0FFF0;
+}
+.text{
+    margin: 100px 0px 0px 50px;
+}
+span{
+    color: green;
+}
+nav img{
+    width: 300px;
+}
+.banner-color{
+    color: green;
+}
+.course{
+    margin: 100px 0px 100px 800px;
+}
+.icon img{
+    width: 200px;
+    margin: 100px 0px 0px 100px;
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    box-shadow: 0px 10px 10px 0px;
+    border-radius: 5px;
+}
+.card-group{
+    margin-left: 350px;
+}
+.last{
+    margin: 150px 800px ;
+}
+.foot img{
+    width: 200px;
+   margin-bottom: 100px;
+}
+.footer{
+    background-color: black;
+    height: 300px;
+    color: gray;
+}
+h5{
+    color: lightgrey;
+}
+.one{
+    margin: 100px 0px 0px 100px;
+}
+.col-md-2{
+    margin-top: 50px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: grey;
+}
